@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Evaluare UNIT 2-IA</title>
+<link rel="stylesheet" type="text/css" href="stil.css">
+</head>
+<body>
+
+<h1>Mazga Alexandra</h1>
+<h3> Grupa 2114 - Semigrupa 1 </h3>
+<p> Adresa email : mazgaalexandra@gmail.com </p>
+
+<h2> Componente si caracteristici</h2>
+<h4> Laptop Lenovo B50-80</h4>
+
+<table style="width:100%">
+  <tr>
+    <th>Denumire</th>
+    <th>Producator</th> 
+    <th>Parametri</th>
+  </tr>
+  <tr>
+    <td>CPU </td>
+    <td>Intel(R) Core(TM) i7-5500U </td>
+    <td>2.40GHz, 2401 Mhz, 2 Core(s), 4 Logical Processor(s)</td>
+  </tr>
+  <tr>
+    <td>Hard disk</td>
+    <td>HDD</td>
+    <td>Viteza HDD 	5400 rpm</td>
+  </tr>
+  <tr>
+    <td>Placa video</td>
+    <td>AMD Radeon R Series - R5 M330 </td>
+    <td>2GB</td>
+  </tr>
+    <tr>
+    <td>Placa de baza</td>
+    <td>Intel H110</td>
+    <td>-</td>
+  </tr>
+     <tr>
+    <td>Memorie RAM</td>
+    <td>-</td>
+    <td>8 GB</td>
+  </tr>
+  	
+</table>
+
+<h4> iPhone XS Max</h4>
+
+<table style="width:100%">
+  <tr>
+    <th>Denumire</th>
+    <th>Producator</th> 
+    <th>Parametri</th>
+  </tr>
+  <tr>
+    <td>Procesor</td>
+    <td>Apple A12 Bionic </td>
+    <td>2.5 GHz/1.6 GHz</td>
+  </tr>
+  <tr>
+    <td>Memorie interna</td>
+    <td>Apple</td>
+    <td>256 GB</td>
+  </tr>
+  <tr>
+    <td>Memorie RAM</td>
+    <td>Apple </td>
+    <td>4 GB</td>
+  </tr>
+ 
+</table>
+
+
+
+<h2> Structura retelei</h2>
+<img src="diagram.PNG">
+
+<h2> Caracteristici conexiune retea</h2>
+<ul>
+  <li>Adresa IP : v4 – 192.168.0.115 </li>
+  <li>Link-local IPv6 address – fe80::f0fa:e3ca:3f7c:7f6e%16</li>
+  <li>Adresa MAC : AC-E0-10-22-7E-BF </li>
+  <li>Retea LAN - Laptop</li>
+  <li>Retea PAN - Smartphone</li>
+</ul>  
+
+<h2> Monitorizare resurse</h2> 
+<img src="img1.PNG">
+<img src="img2.PNG">
+<img src="img3.PNG">
+<img src="img4.PNG">
+<img src="img5.PNG">
+
+
+
+</body>
+</html>

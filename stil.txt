@@ -1,0 +1,57 @@
+<style>
+body { background-color: #696969; }
+
+h1 {color: green;
+  text-align: center;
+  font-family: Verdana;
+}
+h2 {color : green;
+    text-align : left;
+    font-family : arial;}
+h3 {color : darkpink; }
+h4 {color : #FFFACD;
+    background-color : #778899; }
+
+
+p { font-family: comic sans ms;
+  font-size: 20px;}
+  
+img {border : 3px solid yellow;
+     display : block ;
+     opacity : 0.7; 
+     border-radius: 15px 50px 30px;
+     background: #73AD21;
+     padding: 20px; 
+     width: 200px;
+     height: 150px; }
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even){background-color: #FF69B4}
+
+th {
+  background-color: #4CAF50;
+  color: white;
+}
+
+ul {
+  background: #3399ff;
+  padding: 20px;
+}
+
+
+ul li {
+  background: #cce5ff;
+  margin: 5px;
+}
+     
+     
+</style>
